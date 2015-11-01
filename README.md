@@ -27,6 +27,8 @@ $ npm run full
 $ npm run basic
 ```
 
+Ah, and basic version sometimes have bugs with cookies :( 
+At least on my machine. Do not know why...
 
 ### KEEP IN MIND THAT CRAWLING FACEBOOK.COM IS ILLEGAL AND THESE SCRIPTS CAN BE USED ONLY FOR EDUCATIONAL PURPOSES
 
