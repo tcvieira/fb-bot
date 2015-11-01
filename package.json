@@ -1,0 +1,17 @@
+{
+  "name": "fb-bot",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request-promise": "^1.0.2",
+    "tough-cookie-filestore": "0.0.1"
+  },
+  "scripts": {
+    "fb-bot": "phantomjs ./fb-bot.js",
+    "mbasic-fb-bot": "node ./mbasic-fb-bot.js"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  }
+}
