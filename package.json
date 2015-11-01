@@ -8,8 +8,8 @@
     "tough-cookie-filestore": "0.0.1"
   },
   "scripts": {
-    "fb-bot": "phantomjs ./fb-bot.js",
-    "mbasic-fb-bot": "node ./mbasic-fb-bot.js"
+    "full": "phantomjs ./fb-bot.js",
+    "basic": "node ./mbasic-fb-bot.js"
   },
   "engines": {
     "node": ">=5.0.0"

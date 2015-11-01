@@ -49,7 +49,7 @@ rp(FB_URL + '/login.php')
         // check, maybe we've loaded cookies
         // and we've already logged in
 
-        // #search div is at the bottom
+        // #search_div is at the bottom
         // of each logged in page of the facebook.com
         if (!$('#login_form') && $('#search_div')) {
             console.log('You\'ve already logged in!');
