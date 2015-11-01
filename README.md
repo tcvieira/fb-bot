@@ -23,10 +23,10 @@ Sample `login.json` file:
 
 Running scripts with npm (full version requires phantomjs in the PATH):
 ```
-$npm run full
-$npm run basic
+$ npm run full
+$ npm run basic
 ```
 
 
-### KEEP IN MIND THAT CRAWLING FACEBOOK.COM IS ILLEGAL AND THESE SCRIPTS CAN BE USED ONLY IN EDUCATIONAL PURPOSE
+### KEEP IN MIND THAT CRAWLING FACEBOOK.COM IS ILLEGAL AND THESE SCRIPTS CAN BE USED ONLY FOR EDUCATIONAL PURPOSES
 
